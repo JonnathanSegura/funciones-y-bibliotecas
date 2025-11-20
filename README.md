@@ -1,10 +1,11 @@
-## Funciones y Bibliotecas en Java
+# Funciones y Bibliotecas en Java
 
-Este repositorio reúne ejercicios prácticos y conceptos fundamentales relacionados con programación modular, uso de funciones, creación de bibliotecas y procesamiento digital en Java. Incluye programas para trabajar con funciones matemáticas, análisis de señales digitales, divisores de números enteros, distribuciones gaussianas y manipulación de audio básico.
+Este repositorio reúne ejercicios prácticos y conceptos fundamentales de programación modular, uso de funciones, creación de bibliotecas y procesamiento digital en Java. Incluye programas para trabajar con funciones matemáticas, análisis de señales digitales, divisores de números enteros, distribuciones y manipulación de audio básico.
 
 Cada programa aplica buenas prácticas de programación orientada a objetos y modularidad, facilitando la comprensión y la reutilización del código.
 
-Contenido del repositorio
+## Contenido del repositorio
+
 ActivationFunction.java
 
 Implementa varias funciones matemáticas clásicas usadas en machine learning y redes neuronales:
@@ -39,21 +40,7 @@ Divisors.java
 Lee un número entero e imprime todos sus divisores.
 Aplicación directa del uso de bucles, métodos independientes y análisis matemático básico.
 
-Material de estudio incluido
-
-El repositorio contiene cuatro documentos que amplían los conceptos trabajados en los ejercicios:
-
-Conceptos Básicos de Funciones
-
-Estudio de Caso: Audio Digital
-
-Aplicación: Distribución Gaussiana
-
-Programación Modular y Bibliotecas
-
-Estos archivos están diseñados para reforzar teoría fundamental sobre modularidad, abstracción y diseño de funciones.
-
-Requisitos
+## Requisitos
 
 Java 17
 
@@ -63,7 +50,8 @@ JDK configurado en el entorno
 
 Opcional: terminal para compilación manual
 
-Ejecución
+## Ejecución
+
 1. Clonar el repositorio
 git clone https://github.com/JonnathanSegura/funciones-y-bibliotecas
 
@@ -79,7 +67,7 @@ Abrir cualquier archivo .java y ejecutar la función Run.
 javac NombreDelArchivo.java
 java NombreDelArchivo
 
-Objetivo del repositorio
+## Objetivo del repositorio
 
 Este repositorio fue creado para:
 
@@ -93,6 +81,6 @@ Reforzar lógica matemática y procesamiento digital básico
 
 Mejorar la calidad, claridad y documentación del código
 
-Autor
+# Autor
 
 Jonnathan Rosero Segura
